@@ -1,2 +1,2 @@
 # JS-HINDI
-A code repo for learning javascript . Chai aur code
+This series start from 1 July 
